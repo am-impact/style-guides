@@ -1,2 +1,2 @@
-## Twig Style Guide
+# Twig Style Guide
 
