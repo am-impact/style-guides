@@ -20,6 +20,10 @@
         componentWillMount : function() {},
         componentWillReceiveProps: function() {},
         componentWillUnmount : function() {},
+        
+        // Ajax methods
+        getData : function() {},
+        deleteData : function() {},
 
         // Custom methods
         parseData : function() {},
